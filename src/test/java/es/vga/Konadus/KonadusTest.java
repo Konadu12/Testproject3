@@ -2,12 +2,14 @@ package es.vga.Konadus;
 
 import org.junit.Test;
 
-import org.junit.Assert;
 
 public class KonadusTest {
 
 	@Test
-	public void dummyTest() {
-		Assert.assertTrue(true);
+	public static void main(String[] args) throws InterruptedException {
+		System.out.println("Kwakus Test");
+		
+		
 	}
+	
 }
